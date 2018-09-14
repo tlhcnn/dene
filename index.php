@@ -1,0 +1,5 @@
+<?php
+
+$deneme = "deneme";
+
+?>
